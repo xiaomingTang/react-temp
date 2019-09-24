@@ -1,0 +1,10 @@
+{
+  "menu": [],
+  "info": true,
+  "info-circle": false,
+  "down": true,
+  "caret-down": true,
+  "down-circle": [
+    "outline", "two-tone"
+  ]
+}

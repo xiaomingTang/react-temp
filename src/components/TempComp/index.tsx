@@ -1,12 +1,10 @@
-import React, { Fragment } from 'react';
+import React from "react"
 
 interface TempCompProp {
   name: string;
   age: number;
 }
 
-const TempComp = ({ name, age }: TempCompProp) => {
-  return <Fragment>{name} {age}岁了...</Fragment>
-}
+const TempComp = ({ name, age }: TempCompProp) => <>{name} {age}岁了...</>
 
 export default TempComp

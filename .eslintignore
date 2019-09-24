@@ -1,0 +1,8 @@
+/config/
+/build/
+/node_modules/
+/public/
+/scripts/
+*.js
+/**/*.test.tsx
+/**/*.d.ts
